@@ -1,15 +1,11 @@
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
 hi alx
 yes
 nope
 yoyo
->>>>>>> Stashed changes
+ Stashed changes
 xoxo
-=======
 hi alx
 yes
 nope
 hey
->>>>>>> trial1
+
