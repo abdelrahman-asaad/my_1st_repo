@@ -1,0 +1,8 @@
+<<<<<<< Updated upstream
+=======
+hi alx
+yes
+nope
+yoyo
+>>>>>>> Stashed changes
+xoxo
